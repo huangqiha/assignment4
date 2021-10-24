@@ -89,6 +89,7 @@ stroke(255);
 
 void paint5(){
 fill(203,246,251);
+noStroke();
 rect(0,30,width,height);
 
 }
