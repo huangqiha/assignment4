@@ -67,7 +67,7 @@ float x2=map(mouseX,0,width,0,255);
 float y2=map(mouseY,0,height,0,255);
 strokeWeight(3);
 stroke(241,x2,y2);
-line(0,0,random(40),random(40));
+line(0,0,random(20),random(20));
 }}}
 
 
